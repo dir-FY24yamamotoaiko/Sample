@@ -3,8 +3,8 @@ package sample;
 public class Calc {
 
 	public static void main(String[] args) {
-		var num1 = 100;
-		var num2 = 10;
+		var num1 = 3;
+		var num2 = 8;
 		
 		//足し算
 		var result1 = num1 + num2;
